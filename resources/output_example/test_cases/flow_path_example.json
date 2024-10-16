@@ -1,0 +1,21 @@
+{
+  "pre_conditions": "main page",
+  "steps": [
+    {
+      "action_des": "click add button"
+    },
+    {
+      "action_des": "click add button"
+    },
+    {
+      "action_des": "click input box"
+    },
+    {
+      "action_des": "input hello"
+    },
+    {
+      "action_des": "click save button"
+    }
+  ],
+  "expect": ""
+}
