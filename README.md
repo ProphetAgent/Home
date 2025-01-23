@@ -5,8 +5,6 @@
 ProphetAgent can automatically synthesize executable GUI tests from the test steps written in natural language, and then execute the tests on the corresponding apps.
 <center><b><font size ='2'>Overview of ProphetAgent</font></b></center>
 
-![ProphetAgent](readme_resources/overview.png)
-
 ## Advantages
 ProphetAgent has the following advantages as compared with other agents in test case generation and execution:
 
